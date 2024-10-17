@@ -30,7 +30,15 @@ public class Rectangle extends Actor{
     width=w;
     height=h;
     }  
-  
+  public int getArea(){
+      int area = width*height;
+      return area;
+    
+  }
+  public void printArea(){
+      int area = width*height;
+      System.out.println(area);
+  }
     public static void main(String[] args){
     Rectangle rect1=null;
     System.out.println(rect1);
