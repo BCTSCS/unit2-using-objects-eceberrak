@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GeoLocation
+comment1.params=theLatitude\ theLongitude
+comment1.target=GeoLocation(double,\ double)
+comment1.text=\r\n\ Constructs\ a\ geo\ location\ object\ with\ given\ latitude\ and\ longitude\r\n
+comment2.params=
+comment2.target=double\ getLatitude()
+comment2.text=\r\n\ Returns\ the\ latitude\ of\ this\ geo\ location\r\n
+comment3.params=
+comment3.target=double\ getLongitude()
+comment3.text=\r\n\ returns\ the\ longitude\ of\ this\ geo\ location\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=other
+comment5.target=double\ distanceFrom(GeoLocation)
+numComments=6
