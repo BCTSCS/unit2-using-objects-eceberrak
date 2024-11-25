@@ -29,7 +29,22 @@ public class Gene
             }
         }return count;
     }
-    
+    public static boolean potentialGene(String g){
+        if (!g.startsWith("ATG")) {
+            return false;
+        }
+
+        if (g.length() % 3 != 0) {
+            return false;
+        }
+
+        String stopCodon = g.substring(g.length() - 3);
+        if (stopCodon.equals("TAA") || stopCodon.equals("TAG") || stopCodon.equals("TGA")) {
+            return true;
+        }
+
+        return false;
+    }
     public static void main(String[] args) {
         System.out.println(findStopCodon("ATGCATAGCGCATAG",0));
     }
