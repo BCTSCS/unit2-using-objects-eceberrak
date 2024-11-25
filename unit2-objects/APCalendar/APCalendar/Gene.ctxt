@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Gene
+comment1.params=d
+comment1.target=Gene(java.lang.String)
+comment2.params=genome\ start
+comment2.target=int\ findStopCodon(java.lang.String,\ int)
+comment3.params=g\ nucleotide
+comment3.target=int\ countNucleotides(java.lang.String,\ char)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

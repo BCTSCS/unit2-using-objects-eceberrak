@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MethodsLab
+comment0.text=\r\n\ Lab\ Activity\:\ String\ Methods\ and\ Wrapper\ Class\ Practice\r\n\ Topics\:\ String\ immutability,\ String\ methods,\ Wrapper\ classes\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ stringPractice()
+comment3.params=
+comment3.target=void\ wrapperPractice()
+comment4.params=
+comment4.target=void\ exercises()
+comment5.params=
+comment5.target=void\ valueValue()
+numComments=6

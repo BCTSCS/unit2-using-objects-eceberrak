@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MethodsLab2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MethodsLab2\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MethodsLab2()
+comment2.params=start\ stop\ increment
+comment2.target=void\ forloop(int,\ int,\ int)
+comment3.params=number
+comment3.target=void\ whileloop(int)
+comment4.params=input
+comment4.target=void\ addHyphen(java.lang.String)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
